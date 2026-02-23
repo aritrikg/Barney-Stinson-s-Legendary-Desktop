@@ -1,8 +1,5 @@
 # 🕴️ Barney Stinson's Legendary Desktop 💼
 
-<div align="center">
-  <img src="./public/images/logos/logo.png" alt="Barney Stinson's Legendary Desktop Logo" width="200"/>
-</div>
 
 A web-based Ubuntu desktop simulation themed around Barney Stinson from How I Met Your Mother, featuring various apps and a fully interactive desktop environment. 🎭✨
 
@@ -78,7 +75,7 @@ A web-based Ubuntu desktop simulation themed around Barney Stinson from How I Me
 1. **📥 Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/barney-stinson-desktop.git
+   git clone https://github.com/aritrikg/barney-stinson-desktop.git
    cd barney-stinson-desktop
    ```
 
@@ -164,7 +161,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-<div align="center">
-  <strong>Challenge Accepted! 💪</strong>
-</div></content>
-  <parameter name="filePath">c:\Users\ARITRIK GHOSH\Downloads\bst\Barney-Stinson-s-Legendary-Desktop\README.md
+
